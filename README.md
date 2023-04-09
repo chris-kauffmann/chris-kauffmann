@@ -6,7 +6,7 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-kauffmann&layout=compact&langs_count=16&theme=dracula"/>  
 </div>
   
- ## Languages I'm Learning
+ ## 
  
  <div style="display: inline_block"><br>
    <img align="center" alt=Chris-Java height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
