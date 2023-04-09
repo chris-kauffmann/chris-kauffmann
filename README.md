@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Christine, mas pode me chamar de Chris =)
+## Hello!! I'm Christine, but you can call me Chris!! 
 
 <div>
 <a href="https://github.com/chris-kauffmann">
