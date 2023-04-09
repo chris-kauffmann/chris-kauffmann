@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Christine, mais conhecida como Chris 
+## Olá!! Eu sou a Christine, mas pode me chamar de Chris =)
 
 <div>
 <a href="https://github.com/chris-kauffmann">
