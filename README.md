@@ -1,4 +1,7 @@
-## <div align="center"> Hello!! I'm Christine, but you can call me Chris!! </div>
+## <div align="center"> <img src="https://user-images.githubusercontent.com/79487686/232108015-791248d7-0ed8-410d-ae50-730ecaaebbea.gif" width="50">  Hello!! I'm Christine, but you can call me Chris!!</div>
+
+
+
 
 
 <div align="center">
@@ -8,7 +11,7 @@
 
 ##
 
-## <img src="https://user-images.githubusercontent.com/79487686/232108015-791248d7-0ed8-410d-ae50-730ecaaebbea.gif" width="50"> A little more about me:
+## <img src="https://user-images.githubusercontent.com/79487686/232125623-fdd9ed6c-4ae1-4a27-8edc-8aa55aa84d21.gif" width="50"> A little more about me:
 - :books: Studying to become a FullStack Java Developer at <a href="https://brazil.generation.org/">Generation Brazil</a>
 - :star: Graduated at <a href="https://www.fiap.com.br/">FIAP</a> in Systems Analysis and Development
 
