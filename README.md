@@ -1,8 +1,8 @@
-## Hello!! I'm Christine, but you can call me Chris!! 
+## <div align="center"> Hello!! I'm Christine, but you can call me Chris!! </div>
 
-##
+
 <div align="center">
-  <img src=https://user-images.githubusercontent.com/79487686/232056486-d0658b39-c0ca-46f8-8272-773cb323f3f8.gif>
+  <img src="https://user-images.githubusercontent.com/79487686/232069111-0e90d2b4-bf5e-4860-8876-31f98a72088f.gif">
 
 </div> 
 
