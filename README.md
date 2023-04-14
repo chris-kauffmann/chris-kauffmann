@@ -1,6 +1,14 @@
 ## Hello!! I'm Christine, but you can call me Chris!! 
 
-<div>
+##
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/79487686/232056486-d0658b39-c0ca-46f8-8272-773cb323f3f8.gif>
+
+</div> 
+
+
+##
+<div align="center">
 <a href="https://github.com/chris-kauffmann">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=chris-kauffmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-kauffmann&layout=compact&langs_count=16&theme=dracula"/>  
