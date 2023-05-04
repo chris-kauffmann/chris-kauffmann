@@ -54,7 +54,7 @@
 
 <div>
 <a href="https://github.com/chris-kauffmann">
-<img height="180cm" decoding="async" loading="lazy" src="https://github-readme-stats-2gil-chris-kauffmann.vercel.app/api?username=chris-kauffmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<img height="180cm" decoding="async" src="https://github-readme-stats-2gil-chris-kauffmann.vercel.app/api?username=chris-kauffmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 <img height="180cm" src="https://github-readme-stats-2gil-chris-kauffmann.vercel.app/api/top-langs/?username=chris-kauffmann&layout=compact&langs_count=16&theme=dracula">  
 </div>
  
